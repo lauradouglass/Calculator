@@ -1,5 +1,4 @@
 Laura Douglas
-CS504
 Calculator (using sockets)
 
 How to run:
