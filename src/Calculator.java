@@ -6,10 +6,6 @@ import java.io.*;
 
 
 public class Calculator {
-    //logfile
-
-    //to know if user input is valid, later on
-
     /* Returns true if operator is valid */
     private boolean operator(char sign) {
         return sign == '+' || sign == '-' || sign == '*' || sign == '/' || sign == '^';
